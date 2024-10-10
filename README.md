@@ -28,27 +28,42 @@ O **IMC Calculator** é um aplicativo desenvolvido para ajudar os usuários a ca
 
 Baixe o APK do projeto [aqui](https://expo.dev/artifacts/eas/jVy9mgaeG5pqhPo6zKhSQK.apk).
 
-## Capturas de Tela
+<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
 
-### Tela de Splash
-
+<div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+<h2>Tela de Splash</h2>
 <img src="./assets/screenshots/splash.jpeg" alt="Splash Screen" height="500" style="margin-bottom: 20px;"/>
+</div>
 
-### Tela de Explicação do IMC
-
+<div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+<h2>Tela de Apresentação</h2>
 <img src="./assets/screenshots/screenshot2.jpeg" alt="Splash Screen" height="500" style="margin-bottom: 20px;"/>
+</div>
 
-### Tela da Calculadora
+</div>
 
+<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+
+<div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+<h2>Tela da Calculadora</h2>
 <img src="./assets/screenshots/screenshot1.jpeg" alt="Splash Screen" height="500" style="margin-bottom: 20px;"/>
+</div>
 
-### Tela de Resultados
-
+<div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+<h2>Tela de Resultados</h2>
 <img src="./assets/screenshots/screenshot3.jpeg" alt="Splash Screen" height="500" style="margin-bottom: 20px;"/>
+</div>
 
-### Tela de Erro
+</div>
 
+<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+
+<div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+<h2>Tela de Erro</h2>
 <img src="./assets/screenshots/screenshot4.jpeg" alt="Splash Screen" height="500" style="margin-bottom: 20px;"/>
+</div>
+
+</div>
 
 ## Autor
 
